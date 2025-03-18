@@ -1,0 +1,102 @@
+orig_labels,db_labels,feature_types
+Property Address,address,String Value
+Property Name,name,String Value
+PropertyType,assetClass,String Value
+Building Status,status,String Value
+Submarket Cluster,submarketCluster,String Value
+Submarket Name,submarketName,String Value
+City,city,String Value
+State,state,String Value
+Zip,zip,MISC
+County Name,county,String Value
+Year Built,yearBuilt,Float Value
+Number Of Stories,stories,Float Value
+Year Renovated,yearRenovated,Float Value
+Number Of Parking Spaces,numParkingSpaces,Float Value
+Parking Ratio,parkingRatio,Float Value
+RBA,rba,Float Value
+Max Building Contiguous Space,maxContiguous,Float Value
+Smallest Available Space,smallestAvailable,Float Value
+Total Available Space (SF),totalSpace,Float Value
+Direct Available Space,directAvailableSpace,Float Value
+Direct Vacant Space,directVacantSpace,Float Value
+Sublet Available Space,subletAvailableSpace,Float Value
+Average Weighted Rent,avgWeightedRent,Float Value
+Percent Leased,percentLeased,Float Value
+Office Space,officeSpace,Float Value
+Building Tax Expenses,bldgTaxExpenses,MISC
+Building Operating Expenses,bldgOpExpenses,MISC
+Sublet Services,subletServices,String Value
+Direct Services,directServices,String Value
+Leasing Company Name,leasingCompanyName,String Value
+Leasing Company City State Zip,leasingCompanyCityStateZip,String Value
+Leasing Company Phone,leasingCompanyPhone,MISC
+Leasing Company Fax,leasingCompanyFax,MISC
+Primary Agent Name,primaryAgentName,String Value
+Property Manager Name,propertyManagerName,String Value
+Developer Name,developerName,String Value
+Owner Name,ownerName,String Value
+Features,features,MISC
+Power,power,MISC
+Ceiling Ht,ceilingHeight,MISC
+Number Of Loading Docks,numLoadingDocks,Float Value
+Drive Ins,driveIns,MISC
+Column Spacing,columnSpacing,MISC
+Sprinklers,sprinklers,String Value
+Number Of Cranes,numCranes,Float Value
+Construction Material,constructionMaterial,String Value
+Rail Lines,railLines,String Value
+Heating,heating,String Value
+Sewer,sewer,String Value
+Water,water,String Value
+Gas,gas,String Value
+PropertyID,costarID,String Value
+Avg Rent-Direct (Industrial),avgRentDirect,Float Value
+Avg Rent-Sublet (Industrial),avgRentSublet,Float Value
+Building Park,buildingPark,String Value
+Latitude,latitude,MISC
+Longitude,longitude,MISC
+Quarter,quarter,String Array
+Status,statusHist,MISC
+Vacant SF Direct,vacantSFDirect,Float Array
+Vacant SF Sublet,vacantSFSublet,Float Array
+Vacant SF Total,vacantSFTotal,Float Array
+Vacancy Rate % Direct,vacancyRateDirect,Float Array
+Vacancy Rate % Sublet,vacancyRateSublet,Float Array
+Vacancy Rate % Total,vacancyRateTotal,Float Array
+Available SF Direct,availableSFDirect,Float Array
+Available SF Sublet,availableSFSublet,Float Array
+Available SF Total,availableSFTotal,Float Array
+Availability Rate % Direct,availableRateDirect,Float Array
+Availability Rate % Sublet,availableRateSublet,Float Array
+Availability Rate % Total,availableRateTotal,Float Array
+Vacant Available SF Direct,vacantAvailableSFDirect,Float Array
+Vacant Available SF Sublet,vacantAvailableSFSublet,Float Array
+Vacant Available SF Total,vacantAvailableSFTotal,Float Array
+Vacant Available Rate % Direct,vacantAvailableRateDirect,Float Array
+Vacant Available Rate % Sublet,vacantAvailableRateSublet,Float Array
+Vacant Available Rate % Total,vacantAvailableRateTotal,Float Array
+Occupancy SF,occupancySF,Float Array
+Occupancy % Total,occupancyRateTotal,Float Array
+Net Absorption SF Direct,netAbsorptionSFDirect,Float Array
+Net Absorption SF Sublet,netAbsorptionSFSublet,Float Array
+Net Absorption SF Total,netAbsorptionSFTotal,Float Array
+Gross Absorption SF Direct,grossAbsorptionSFDirect,Float Array
+Gross Absorption SF Sublet,grossAbsorptionSFSublet,Float Array
+Gross Absorption SF Total,grossAbsorptionSFTotal,Float Array
+Leasing Activity Deals Direct,leasingActivityDealsDirect,Float Array
+Leasing Activity Deals Sublet,leasingActivityDealsSublet,Float Array
+Leasing Activity Deals Total,leasingActivityDealsTotal,Float Array
+Leasing Activity SF Direct,leasingActivitySFDirect,Float Array
+Leasing Activity SF Sublet,leasingActivitySFSublet,Float Array
+Leasing Activity SF Total,leasingActivitySFTotal,Float Array
+All Service Type Rent Direct,allServiceTypeRentDirect,Float Array
+All Service Type Rent Sublet,allServiceTypeRentSublet,Float Array
+All Service Type Rent Overall,allServiceTypeRentTotal,Float Array
+NNN Rent Direct,nnnRentDirect,Float Array
+NNN Rent Sublet,nnnRentSublet,Float Array
+NNN Rent Overall,nnnRentTotal,Float Array
+Market Name,market,String Value
+Rent/SF,rent,MISC
+Building Class,propertyClass,String Value
+Property Type,propertyType,String Value

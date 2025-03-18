@@ -1,0 +1,30 @@
+﻿by,value,action,keys,description,refresh
+By.CSS_SELECTOR,.css-uui-19gt0fn,click,,Navigate to login page,
+By.ID,username,send_keys,,Fill username,no
+By.ID,password,send_keys,,Fill password,no
+By.ID,loginButton,click,,Click login button,no
+By.ID,code,send_keys,,Fill 2FA code,no
+By.ID,otpverify,click,,Click confirm 2FA button,no
+By.CSS_SELECTOR,.csg-tui-button:nth-child(2) > .csg-tui-text,click,,Navigate to Properties tab,
+By.CSS_SELECTOR,#master-toolbar-save-button .placeholder-normal,click,,OLD Open saved search dropdown menu,
+By.XPATH,,click,,Open saved search dropdown menu,
+By.ID,view-all-saved-surveys,click,,Open saved search full page menu,no
+By.CSS_SELECTOR,.toolbar__name-field--IfegC,send_keys,,Search for given saved search,
+By.LINK_TEXT,,click,,Select given saved search,no
+By.CSS_SELECTOR,#search-bar-list-view-button > i,click,,Select list view for saved search results,
+By.CSS_SELECTOR,li span:nth-child(3),click,,Open More dropdown menu,
+By.CSS_SELECTOR,ul:nth-child(2) > li:nth-child(3) .master-toolbar-common__tertiary--LW362,click,,Click first present data Export button,no
+By.CLASS_NAME,css-6fl1mb,click,,Open saved export formats dropdown menu,no
+By.ID,react-select-2-option-2-0,click,,Select Industrial Data Project,no
+By.ID,new-export-export-button,click,,Initiate present data export,no
+By.CLASS_NAME,filter-button__button-filter--KhLv3,click,,Click Filter button,
+By.LINK_TEXT,Location,click,,Click Location button,
+By.CLASS_NAME,#master-toolbar-save-button .placeholder-normal,click,,Dummy Click,
+By.LINK_TEXT,Analytics,click,,Navigate to Analytics tab,no
+By.LINK_TEXT,Data,click,,Navigate to Data tab,no
+By.CSS_SELECTOR,.csg-css-anlytics-detail-1ixw8ou,click,,OLD Click historical data Export button,no
+By.XPATH,,click,,Click historical data Export button, no
+By.CSS_SELECTOR,.css-uui-407qmb,click,,Click Back button,
+By.CSS_SELECTOR,.css-uui-dp4aq6,click,,Click CoStar Icon for Homepage,
+By.ID,search-bar-clear-filters-button,click,,Click Clear Filters button,
+By.CLASS_NAME,select-banner-list-view__action-button--Efa8w,click,,Delete selected property,
