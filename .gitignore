@@ -1,0 +1,11 @@
+
+pedc_venv/
+
+.env
+
+geckodriver.log
+
+costar/logs
+costar/data
+
+deploy.sh
