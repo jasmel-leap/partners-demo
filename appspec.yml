@@ -3,9 +3,5 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/partners-demo
-hooks:
-  AfterInstall:
-    - location: run: pip install -r /var/www/html/partners-demo/requirements.txt
-      timeout: 300
-      runas: root
+
   
